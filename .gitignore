@@ -8,3 +8,6 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Obsidian
+.obsidian/
