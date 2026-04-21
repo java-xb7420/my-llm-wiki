@@ -1,6 +1,9 @@
-# knowledge-update
+---
+name: knowledge-update
+description: 读取 raw/下最近更新的原始资料，进行知识提取并更新 Wiki 文档
+---
 
-知识更新技能 - 读取原始资料并更新 Wiki 文档
+# knowledge-update - 知识更新技能
 
 ## 功能
 
@@ -84,11 +87,3 @@ valid_until: 2026-12-31
 status: active  # 或 outdated
 ---
 ```
-
-## 使用方法
-
-```
-/knowledge-update
-```
-
-或在对话中直接说"更新知识"、"处理新资料"。
