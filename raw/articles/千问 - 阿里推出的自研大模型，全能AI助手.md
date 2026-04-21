@@ -1,0 +1,121 @@
+---
+title: 千问 - 阿里推出的自研大模型，全能AI助手
+source: https://ai-bot.cn/sites/1338.html
+author:
+published: 2025-09-13
+created: 2026-04-16
+description: 千问是阿里云推出的全能型人工智能助手，基于强大的通义千问大模型，具备多模态交互能力，支持文本、图片、文档、音频和视频等多种输入方式，为用户提供一站式智能服务。
+tags:
+  - clippings
+---
+[![堆友AI](https://ai-bot.cn/wp-content/uploads/2025/09/d-design-banner-0906.png)](https://d.design/?from=ab14)
+
+## 千问是什么
+
+千问是阿里推出的全能型 [人工智能助手](https://ai-bot.cn/best-free-ai-chatbots/) ，基于强大的Qwen大模型，具备多模态交互能力，支持文本、图片、文档、音频和视频等多种输入方式，为用户提供一站式智能服务。千问能处理长文本，支持多达119种语言和方言的翻译与对话，能生成PPT、撰写文案、创作故事等多种内容。千问提供实时翻译、口语练习、AI证件照、AI试衣等特色功能，覆盖办公、地图、健康、购物等多个生活场景。用户可以通过网页版、手机应用、微信小程序或浏览器插件等多种方式使用。
+
+[![千问](https://ai-bot.cn/wp-content/uploads/2025/11/tongyi-website1.png)](https://ai-bot.cn/wp-content/uploads/2025/11/tongyi-website1.png)
+
+## 千问的主要功能
+
+- **多模态交互：** 支持文本、图片、文档、音频和视频等多种输入方式，能够对不同格式的内容进行理解和处理。
+- **长文本处理** ：单次可处理多达1000万字的长文档，支持同时解析100份不同格式的文件，适合处理复杂的学术论文、报告等。
+- **智能写作** ：提供创意文案生成、办公文档撰写、学习辅导等多种服务，能够撰写故事、公文、邮件、剧本和诗歌等。
+- **实时翻译** ：支持多种语言的互译，覆盖119种语言和方言，帮助用户跨越语言障碍。
+- **音视频处理** ：能对音视频文件进行识别、理解、摘要总结和多语言翻译，支持同时上传处理50个音视频文件。
+- **知识问答** ：提供丰富的知识库支持，能回答用户的各种问题，涵盖科学、文化、生活等多个领域。
+- **个性化服务** ：用户可以创建专属的工具或聊天角色，精准匹配个人需求，提升使用体验。
+
+## 如何使用千问
+
+- **访问网页版** ：访问通义官网 [https://www.qianwen.com/](https://dis.chatdesks.cn/chatdesk/tyaibot.html) 。
+- **下载手机应用** ：可在应用商店搜索“ [千问](https://ai-bot.cn/app/10279.html) ”进行安装。
+- \> **微信小程序** ：微信小程序搜索“千问”使用。
+- **浏览器插件** ：安装千问浏览器插件，适用于网课、追剧、线上会议等场景。
+
+## 千问的特色应用
+
+- **PPT创作** ：支持10万字超长文本的PPT生成，并提供pptx文件下载。
+- **口语练习** （仅手机APP）：支持多种语言，用户可与AI实时对话，AI会根据用户的发音、语法和流利度提供实时反馈和建议。
+- **AI证件照** ：可快速生成符合不同场景要求的证件照。
+- **AI试衣** ：利用图像处理技术，用户上传照片后可虚拟试穿各种服装。
+- **AI生视频** ：包括文生视频和图生视频两种方式，适用于多种类型视频制作。
+- **AI修图** ：支持扩图、风格转换、去水印等功能。
+- **实时记录** ：支持多语言翻译，内容重点总结，可生成思维导图。
+- **通义灵码** ：支持行间代码生成、代码优化、注释生成、代码解释、研发智能问答、报错排查等功能。
+- **通义听悟** ：可以开启实时记录，将语音实时转换为文字，还可以进行总结，生成思维导图。
+
+## 千问的应用场景
+
+- **会议管理** ：实时转录会议内容，自动生成中英双语纪要，通过智能问答快速定位历史决策。
+- **文档处理** ：快速生成市场调研报告、项目总结等文档，节省写作时间。可以自动整理和分类各类文档，方便查找和管理。
+- **智能写作** ：根据用户输入的关键词或简要描述，自动生成高质量的文本内容，如文章、报告、邮件等。
+- **学习辅导** ：为学生提供个性化的学习指导，解答疑问，帮助巩固知识点。学生可以上传错题集，系统自动归类知识薄弱点并推送针对性习题。
+- **设备控制** ：通过语音或文字指令，控制家中的智能设备，如灯光、空调、音响等，打造智能化的生活环境。
+
+> [!warning] Warning
+> ©️版权声明：若无特殊声明，本站所有文章版权均归 [AI工具集](https://ai-bot.cn/) 原创和所有，未经许可，任何个人、媒体、网站、团体不得转载、抄袭或以其他方式复制发表本站内容，或在非我站所属的服务器上建立镜像。否则，我站将依法保留追究相关法律责任的权利。
+
+## 类似于千问的工具
+
+[![豆包](https://ai-bot.cn/wp-content/uploads/2026/03/doubao-icon.png)](https://ai-bot.cn/sites/4189.html)
+
+[**豆包**](https://ai-bot.cn/sites/4189.html)
+
+[
+
+智能对话助手，办公创作全能！
+
+](https://ai-bot.cn/sites/4189.html)
+
+[![问小白](https://ai-bot.cn/wp-content/uploads/2025/04/wenxiaobai-logo-2.png)](https://ai-bot.cn/sites/14215.html)
+
+[**问小白**](https://ai-bot.cn/sites/14215.html)
+
+[
+
+AI智能助手，支持DeepSeek满血版
+
+](https://ai-bot.cn/sites/14215.html)
+
+[![文心一言](https://ai-bot.cn/wp-content/uploads/2023/03/baidu-yiyan-icon.png)](https://ai-bot.cn/sites/669.html)
+
+[**文心一言**](https://ai-bot.cn/sites/669.html)
+
+[
+
+百度推出的基于文心大模型的AI智能助手
+
+](https://ai-bot.cn/sites/669.html)
+
+[![超级助理](https://ai-bot.cn/wp-content/uploads/2023/12/superagent-icon.png)](https://ai-bot.cn/sites/6290.html)
+
+[**超级助理**](https://ai-bot.cn/sites/6290.html)
+
+[
+
+百度智能云发布的基于文心一言的AI原生应用和Copilot“超级助理”
+
+](https://ai-bot.cn/sites/6290.html)
+
+[![钉钉·个人版](https://ai-bot.cn/wp-content/uploads/2023/08/dingtalk-personal-ai.png)](https://ai-bot.cn/sites/4080.html)
+
+[**钉钉·个人版**](https://ai-bot.cn/sites/4080.html)
+
+[
+
+钉钉推出的个人版办公应用程序，内置AI智能助手，可进行AI创作、AI对话、AI绘画
+
+](https://ai-bot.cn/sites/4080.html)
+
+[![LongCat](https://ai-bot.cn/wp-content/uploads/2025/09/LongCat-icon.png)](https://ai-bot.cn/sites/61432.html)
+
+[**LongCat**](https://ai-bot.cn/sites/61432.html)
+
+[
+
+美团推出的自研大模型AI对话平台
+
+](https://ai-bot.cn/sites/61432.html)
+
+[![LiblibAI](https://ai-bot.cn/wp-content/uploads/2026/01/LiblibAI-banner-0127.png)](https://www.liblib.art/video-effect?sourceid=004810)
