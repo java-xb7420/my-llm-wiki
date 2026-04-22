@@ -2,31 +2,29 @@ name: Weekly AI Lint
 
 on:
   schedule:
-    - cron: '0 2 * * 0'  # 每周日凌晨2点(UTC)
-  workflow_dispatch:      # 支持手动触发
-
-permissions:
-  contents: write
+    # 每周一 02:00 UTC (北京时间 10:00)
+    - cron: '0 2 * * 1'
+  workflow_dispatch: # 允许手动触发
 
 jobs:
-  lint-check:
+  knowledge-audit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write       # 允许提交修复结果
+      pull-requests: write  # 允许创建 PR
     steps:
-      - name: 检出仓库代码
-        uses: actions/checkout@v3
+      - name: Checkout Code
+        uses: actions/checkout@v4
 
-      - name: 设置Node.js环境
-        uses: actions/setup-node@v3
-
-      - name: 运行AI Lint检查
-        run: |
-          chmod +x scripts/lint.sh
-          bash scripts/lint.sh
-
-      - name: 提交更改
-        run: |
-          git config --global user.name "AI Linter"
-          git config --global user.email "ai-linter@github-actions[bot]"
-          git add .
-          git diff --quiet || git commit -m "chore: 每周自动Lint检查与修复"
-          git push
+      - name: Run Claude Code Audit
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          # 核心指令：引导 Claude 读取 CLAUDE.md 并执行特定章节
+          prompt: |
+            请执行“知识自检”任务。首先仔细阅读项目根目录下的 `CLAUDE.md` 文件，重点关注其中关于“知识校验”的规则定义。
+          # 下面这行是可选的，不写就是用默认模型
+          claude_args: "--model kimi-k2.5" 
+          env:
+          # 这一步非常重要，告诉 Action 使用百炼的网关
+          ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}

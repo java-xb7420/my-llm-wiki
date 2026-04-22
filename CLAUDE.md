@@ -7,6 +7,7 @@
 本目录提供以下 skills：
 
 - `/knowledge-update` - 读取 `raw/` 下最近更新的原始资料，进行知识提取并更新 Wiki 文档
+- `/knowledge-query` - 基于 LLM Wiki 知识库回答用户问题
 
 ## 工作原则
 
